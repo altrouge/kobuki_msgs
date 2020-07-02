@@ -18,6 +18,7 @@ add_message_files(DIRECTORY msg
                             KeyboardInput.msg
                             MotorPower.msg
                             RobotStateEvent.msg
+                            SingleNote.msg
                             Sound.msg
                             ScanAngle.msg
                             WheelDropEvent.msg
