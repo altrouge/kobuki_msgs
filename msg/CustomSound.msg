@@ -1,4 +1,4 @@
-# Sends a command for playing a single note.
+# Sends a command for playing a single note (custom sound).
 # duration: unsigned char (0-255) in ms
 # frequency: frequency in Hz
 
